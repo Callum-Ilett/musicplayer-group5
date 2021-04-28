@@ -1,0 +1,29 @@
+{
+  "name": "soltunes-demo",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
+    "@types/react-howler": "^3.7.2",
+    "axios": "^0.21.1",
+    "firebase": "^8.3.1",
+    "next": "10.0.9",
+    "next-pwa": "^5.2.15",
+    "react": "17.0.1",
+    "react-dom": "17.0.1",
+    "react-howler": "^5.0.0",
+    "react-multi-carousel": "^2.6.2"
+  },
+  "devDependencies": {
+    "@types/node": "^14.14.35",
+    "@types/react": "^17.0.3",
+    "typescript": "^4.2.3"
+  }
+}
